@@ -1,6 +1,6 @@
 # ESCAPED FISH DISPERSAL FROM A SABOTAGED FARM
 
-Javier Atalah<sup>1*</sup>, Kilian Toledo-Guedes<sup>1^</sup>, David Izquierdo<sup>2</sup>, Damián Fernandez-Jover<sup>1</sup>, Pablo Arechavala-Lopez<sup>3</sup>, and Pablo Sanchez-Jerez<sup>1</sup>.
+Javier Atalah<sup>1*</sup>, Kilian Toledo-Guedes<sup>1</sup>, David Izquierdo<sup>2</sup>, Damián Fernandez-Jover<sup>1</sup>, Pablo Arechavala-Lopez<sup>3</sup>, and Pablo Sanchez-Jerez<sup>1</sup>.
 
 <sup>1</sup>Department of Marine Science and Applied Biology, University of Alicante, Spain.
 
