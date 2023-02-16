@@ -1,0 +1,277 @@
+fecha,ID,mes,muestreador,toponimia,localidad,sitio,transecto,distancia_localidad_km,distance,day,num_mes,month,orientation,density,X,Y
+2014-07-14,Gorguel Norte 1,Julio,David,Gorguel Norte,Gorguel,1,1,0.7,0.7,14,1,July,E,12,-0.8750087147747092,37.57724244056245
+2014-07-14,Gorguel Norte 2,Julio,David,Gorguel Norte,Gorguel,1,2,0.7,0.7,14,1,July,E,0,-0.87432932190601,37.576339765969294
+2014-07-14,Gorguel Norte 3,Julio,David,Gorguel Norte,Gorguel,1,3,0.7,0.7,14,1,July,E,0,-0.8733510897173034,37.57556024775284
+2014-07-14,Gorguel Norte 4,Julio,David,Gorguel Norte,Gorguel,1,4,0.7,0.7,14,1,July,E,192,-0.8721259515903053,37.57503512329815
+2014-07-14,Gorguel Norte 5,Julio,David,Gorguel Norte,Gorguel,1,5,0.7,0.7,14,1,July,E,0,-0.8709909095010537,37.57494475096319
+2014-07-14,Gorguel Norte 6,Julio,David,Gorguel Norte,Gorguel,1,6,0.7,0.7,14,1,July,E,60,-0.8699712242607747,37.575608293129164
+2014-07-14,Gorguel Sur 1,Julio,Kilian,Gorguel Sur,Gorguel,2,1,0.7,0.7,14,1,July,E,6,-0.8775913533706488,37.57667554113447
+2014-07-14,Gorguel Sur 2,Julio,Kilian,Gorguel Sur,Gorguel,2,2,0.7,0.7,14,1,July,E,10,-0.8784095676731632,37.57587260032297
+2014-07-14,Gorguel Sur 3,Julio,Kilian,Gorguel Sur,Gorguel,2,3,0.7,0.7,14,1,July,E,60.2,-0.8781568386722952,37.574913196688804
+2014-07-14,Gorguel Sur 4,Julio,Kilian,Gorguel Sur,Gorguel,2,4,0.7,0.7,14,1,July,E,230,-0.8788438519251202,37.57433139190499
+2014-07-14,Gorguel Sur 5,Julio,Kilian,Gorguel Sur,Gorguel,2,5,0.7,0.7,14,1,July,E,220,-0.8789067569951309,37.57346321707799
+2014-07-14,Gorguel Sur 6,Julio,Kilian,Gorguel Sur,Gorguel,2,6,0.7,0.7,14,1,July,E,300.4,-0.8784559812420466,37.572468165164054
+2014-07-17,Gorguel Norte 1,Julio,Pablo S,Gorguel Norte,Gorguel,1,1,0.7,0.7,17,1,July,E,1000.2,-0.8750087147747092,37.57724244056245
+2014-07-17,Gorguel Norte 2,Julio,Pablo S,Gorguel Norte,Gorguel,1,2,0.7,0.7,17,1,July,E,0.4,-0.87432932190601,37.576339765969294
+2014-07-17,Gorguel Norte 3,Julio,Pablo S,Gorguel Norte,Gorguel,1,3,0.7,0.7,17,1,July,E,402.4,-0.8733510897173034,37.57556024775284
+2014-07-17,Gorguel Norte 4,Julio,Pablo S,Gorguel Norte,Gorguel,1,4,0.7,0.7,17,1,July,E,0.6,-0.8721259515903053,37.57503512329815
+2014-07-17,Gorguel Norte 5,Julio,Pablo S,Gorguel Norte,Gorguel,1,5,0.7,0.7,17,1,July,E,0,-0.8709909095010537,37.57494475096319
+2014-07-17,Gorguel Norte 6,Julio,Pablo S,Gorguel Norte,Gorguel,1,6,0.7,0.7,17,1,July,E,0,-0.8699712242607747,37.575608293129164
+2014-07-17,Gorguel Sur 1,Julio,Damián,Gorguel Sur,Gorguel,2,1,0.7,0.7,17,1,July,E,0,-0.8775913533706488,37.57667554113447
+2014-07-17,Gorguel Sur 2,Julio,Damián,Gorguel Sur,Gorguel,2,2,0.7,0.7,17,1,July,E,90,-0.8784095676731632,37.57587260032297
+2014-07-17,Gorguel Sur 3,Julio,Damián,Gorguel Sur,Gorguel,2,3,0.7,0.7,17,1,July,E,52,-0.8781568386722952,37.574913196688804
+2014-07-17,Gorguel Sur 4,Julio,Damián,Gorguel Sur,Gorguel,2,4,0.7,0.7,17,1,July,E,60,-0.8788438519251202,37.57433139190499
+2014-07-17,Gorguel Sur 5,Julio,Damián,Gorguel Sur,Gorguel,2,5,0.7,0.7,17,1,July,E,0,-0.8789067569951309,37.57346321707799
+2014-07-17,Gorguel Sur 6,Julio,Damián,Gorguel Sur,Gorguel,2,6,0.7,0.7,17,1,July,E,32,-0.8784559812420466,37.572468165164054
+2014-07-14,Portman Norte 1,Julio,David,Portman Norte,Portman,1,1,4.4,4.4,14,1,July,E,8.2,-0.8470689541460799,37.58148147782686
+2014-07-14,Portman Norte 2,Julio,David,Portman Norte,Portman,1,2,4.4,4.4,14,1,July,E,12,-0.8457111150864232,37.58110749883235
+2014-07-14,Portman Norte 3,Julio,David,Portman Norte,Portman,1,3,4.4,4.4,14,1,July,E,90,-0.8443271949137889,37.580600479365216
+2014-07-14,Portman Norte 4,Julio,David,Portman Norte,Portman,1,4,4.4,4.4,14,1,July,E,124,-0.8438824696087305,37.579837254475976
+2014-07-14,Portman Norte 5,Julio,David,Portman Norte,Portman,1,5,4.4,4.4,14,1,July,E,4.4,-0.8442130355568538,37.57894645959785
+2014-07-14,Portman Norte 6,Julio,David,Portman Norte,Portman,1,6,4.4,4.4,14,1,July,E,0,-0.84315700833679,37.578910832885136
+2014-07-14,Portman Sur 1,Julio,Kilian,Portman Sur,Portman,2,1,4.4,4.4,14,1,July,E,6.4,-0.8512211588392007,37.582080428501904
+2014-07-14,Portman Sur 2,Julio,Kilian,Portman Sur,Portman,2,2,4.4,4.4,14,1,July,E,0,-0.8526641525654294,37.58198533983195
+2014-07-14,Portman Sur 3,Julio,Kilian,Portman Sur,Portman,2,3,4.4,4.4,14,1,July,E,0,-0.8532774510895325,37.58107706345728
+2014-07-14,Portman Sur 4,Julio,Kilian,Portman Sur,Portman,2,4,4.4,4.4,14,1,July,E,0,-0.8541334600186418,37.58023258981674
+2014-07-14,Portman Sur 5,Julio,Kilian,Portman Sur,Portman,2,5,4.4,4.4,14,1,July,E,0,-0.8554545893971136,37.57980005082528
+2014-07-14,Portman Sur 6,Julio,Kilian,Portman Sur,Portman,2,6,4.4,4.4,14,1,July,E,0,-0.8569564966215046,37.57970266697826
+2014-07-17,Atamaría Norte 1,Julio,Pablo S,Atamaría Norte,Atamaría,1,1,10.1,10.1,17,1,July,E,0,-0.792216541985035,37.58716664163524
+2014-07-17,Atamaría Norte 2,Julio,Pablo S,Atamaría Norte,Atamaría,1,2,10.1,10.1,17,1,July,E,0,-0.7910117888913019,37.58659907857346
+2014-07-17,Atamaría Norte 3,Julio,Pablo S,Atamaría Norte,Atamaría,1,3,10.1,10.1,17,1,July,E,0,-0.7903395623489461,37.58705057051856
+2014-07-17,Atamaría Norte 4,Julio,Pablo S,Atamaría Norte,Atamaría,1,4,10.1,10.1,17,1,July,E,0,-0.7893100566595014,37.58753635750897
+2014-07-17,Atamaría Norte 5,Julio,Pablo S,Atamaría Norte,Atamaría,1,5,10.1,10.1,17,1,July,E,0,-0.788526153610931,37.58804854893276
+2014-07-17,Atamaría Norte 6,Julio,Pablo S,Atamaría Norte,Atamaría,1,6,10.1,10.1,17,1,July,E,0,-0.7883579566849196,37.589030106994365
+2014-07-17,Atamaría Sur 1,Julio,Damián,Atamaría Sur,Atamaría,2,1,10.1,10.1,17,1,July,E,0,-0.7934768974786468,37.58673920121141
+2014-07-17,Atamaría Sur 2,Julio,Damián,Atamaría Sur,Atamaría,2,2,10.1,10.1,17,1,July,E,0,-0.7945848528787823,37.586754779340524
+2014-07-17,Atamaría Sur 3,Julio,Damián,Atamaría Sur,Atamaría,2,3,10.1,10.1,17,1,July,E,0,-0.795919524776215,37.586684271726725
+2014-07-17,Atamaría Sur 4,Julio,Damián,Atamaría Sur,Atamaría,2,4,10.1,10.1,17,1,July,E,0,-0.797110757539625,37.58597573146668
+2014-07-17,Atamaría Sur 5,Julio,Damián,Atamaría Sur,Atamaría,2,5,10.1,10.1,17,1,July,E,0.2,-0.7981944824169127,37.585553616387635
+2014-07-17,Atamaría Sur 6,Julio,Damián,Atamaría Sur,Atamaría,2,6,10.1,10.1,17,1,July,E,0,-0.799532449330165,37.58552500899153
+2014-07-17,Cabo Palos Norte 1,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,1,23.7,23.7,17,1,July,E,0,-0.6931199104164123,37.6306649962902
+2014-07-17,Cabo Palos Norte 2,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,2,23.7,23.7,17,1,July,E,0,-0.692394959469171,37.63076026336756
+2014-07-17,Cabo Palos Norte 3,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,3,23.7,23.7,17,1,July,E,0,-0.6919004515414057,37.631499339710366
+2014-07-17,Cabo Palos Norte 4,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,4,23.7,23.7,17,1,July,E,0,-0.6913460606894714,37.63192756369512
+2014-07-17,Cabo Palos Norte 5,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,5,23.7,23.7,17,1,July,E,0,-0.6907581671405953,37.63218254172039
+2014-07-17,Cabo Palos Norte 6,Julio,Pablo S,Cabo Palos Norte,Cabo Palos,1,6,23.7,23.7,17,1,July,E,0,-0.6897849532245113,37.63219358655926
+2014-07-17,Cabo Palos Sur 1,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,1,23.7,23.7,17,1,July,E,0,-0.6947691752764357,37.63010585331086
+2014-07-17,Cabo Palos Sur 2,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,2,23.7,23.7,17,1,July,E,0,-0.6954434127964544,37.629861454417004
+2014-07-17,Cabo Palos Sur 3,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,3,23.7,23.7,17,1,July,E,0,-0.6963100532947496,37.63015856689802
+2014-07-17,Cabo Palos Sur 4,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,4,23.7,23.7,17,1,July,E,0,-0.6973152520998414,37.6305050287697
+2014-07-17,Cabo Palos Sur 5,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,5,23.7,23.7,17,1,July,E,0,-0.6982150488145734,37.63033101772772
+2014-07-17,Cabo Palos Sur 6,Julio,Pablo S,Cabo Palos Sur,Cabo Palos,2,6,23.7,23.7,17,1,July,E,0,-0.6989474805769089,37.63041991575566
+2014-07-15,Escombreras Norte 1,Julio,David,Escombreras Norte,Escombreras,1,1,-6.4,6.4,15,1,July,W,0,-0.9406489269184709,37.55884694292945
+2014-07-15,Escombreras Norte 2,Julio,David,Escombreras Norte,Escombreras,1,2,-6.4,6.4,15,1,July,W,0,-0.9418553533757975,37.558821969512685
+2014-07-15,Escombreras Norte 3,Julio,David,Escombreras Norte,Escombreras,1,3,-6.4,6.4,15,1,July,W,0,-0.9430247331848689,37.559092015461715
+2014-07-15,Escombreras Norte 4,Julio,David,Escombreras Norte,Escombreras,1,4,-6.4,6.4,15,1,July,W,3,-0.9444283930504875,37.558976824253904
+2014-07-15,Escombreras Norte 5,Julio,David,Escombreras Norte,Escombreras,1,5,-6.4,6.4,15,1,July,W,1,-0.9457682036869022,37.558823067208124
+2014-07-15,Escombreras Norte 6,Julio,David,Escombreras Norte,Escombreras,1,6,-6.4,6.4,15,1,July,W,0,-0.9472854560491161,37.55861867452639
+2014-07-15,Escombreras Sur 1,Julio,Kilian,Escombreras Sur,Escombreras,2,1,-6.4,6.4,15,1,July,W,1.2,-0.9595975969431321,37.55867197039351
+2014-07-15,Escombreras Sur 2,Julio,Kilian,Escombreras Sur,Escombreras,2,2,-6.4,6.4,15,1,July,W,100,-0.9579554809037191,37.55854349746338
+2014-07-15,Escombreras Sur 3,Julio,Kilian,Escombreras Sur,Escombreras,2,3,-6.4,6.4,15,1,July,W,13,-0.9562335450311678,37.558254487543024
+2014-07-15,Escombreras Sur 4,Julio,Kilian,Escombreras Sur,Escombreras,2,4,-6.4,6.4,15,1,July,W,50.2,-0.9547036294955225,37.55809098738708
+2014-07-15,Escombreras Sur 5,Julio,Kilian,Escombreras Sur,Escombreras,2,5,-6.4,6.4,15,1,July,W,0.2,-0.9531317525470703,37.557860643010244
+2014-07-15,Escombreras Sur 6,Julio,Kilian,Escombreras Sur,Escombreras,2,6,-6.4,6.4,15,1,July,W,0,-0.9515845181653733,37.55792581995634
+2014-07-15,Cala Cortina Norte 1,Julio,David,Cala Cortina Norte,Calacortina,1,1,-12.6,12.6,15,1,July,W,0.2,-0.9749967500983228,37.58098431509958
+2014-07-15,Cala Cortina Norte 2,Julio,David,Cala Cortina Norte,Calacortina,1,2,-12.6,12.6,15,1,July,W,0,-0.9750597917674639,37.58033486269096
+2014-07-15,Cala Cortina Norte 3,Julio,David,Cala Cortina Norte,Calacortina,1,3,-12.6,12.6,15,1,July,W,0.4,-0.9749603531298621,37.57981434766932
+2014-07-15,Cala Cortina Norte 4,Julio,David,Cala Cortina Norte,Calacortina,1,4,-12.6,12.6,15,1,July,W,0.4,-0.9756821958419826,37.579387635252175
+2014-07-15,Cala Cortina Norte 5,Julio,David,Cala Cortina Norte,Calacortina,1,5,-12.6,12.6,15,1,July,W,0,-0.9759048073918134,37.5787321087419
+2014-07-15,Cala Cortina Norte 6,Julio,David,Cala Cortina Norte,Calacortina,1,6,-12.6,12.6,15,1,July,W,0,-0.9761632876451245,37.57771503763012
+2014-07-15,Cala Cortina Sur 1,Julio,Kilian,Cala Cortina Sur,Calacortina,2,1,-12.6,12.6,15,1,July,W,2,-0.9760037822798991,37.581011767382705
+2014-07-15,Cala Cortina Sur 2,Julio,Kilian,Cala Cortina Sur,Calacortina,2,2,-12.6,12.6,15,1,July,W,1.4,-0.9771788826155267,37.58076473063874
+2014-07-15,Cala Cortina Sur 3,Julio,Kilian,Cala Cortina Sur,Calacortina,2,3,-12.6,12.6,15,1,July,W,0,-0.9783307316805951,37.58140518748672
+2014-07-15,Cala Cortina Sur 4,Julio,Kilian,Cala Cortina Sur,Calacortina,2,4,-12.6,12.6,15,1,July,W,6.2,-0.9785233753487566,37.58232814522628
+2014-07-15,Cala Cortina Sur 5,Julio,Kilian,Cala Cortina Sur,Calacortina,2,5,-12.6,12.6,15,1,July,W,0.2,-0.9787947228358829,37.58296019957474
+2014-07-15,Cala Cortina Sur 6,Julio,Kilian,Cala Cortina Sur,Calacortina,2,6,-12.6,12.6,15,1,July,W,0,-0.9783549360573502,37.5840476435696
+2014-07-15,Portus Norte 1,Julio,David,Portus Norte,Portus,1,1,-26.4,26.4,15,1,July,W,0.4,-1.0717922498478158,37.58376472092362
+2014-07-15,Portus Norte 2,Julio,David,Portus Norte,Portus,1,2,-26.4,26.4,15,1,July,W,0.2,-1.0707221947908168,37.583145192229146
+2014-07-15,Portus Norte 3,Julio,David,Portus Norte,Portus,1,3,-26.4,26.4,15,1,July,W,0,-1.0705778714880163,37.5821130857173
+2014-07-15,Portus Norte 4,Julio,David,Portus Norte,Portus,1,4,-26.4,26.4,15,1,July,W,0,-1.0694067105079152,37.58205092445266
+2014-07-15,Portus Norte 5,Julio,David,Portus Norte,Portus,1,5,-26.4,26.4,15,1,July,W,0,-1.0686672211361248,37.58143131508414
+2014-07-15,Portus Norte 6,Julio,David,Portus Norte,Portus,1,6,-26.4,26.4,15,1,July,W,0,-1.0684385177108415,37.58073274011703
+2014-07-15,Portus Sur 1,Julio,Kilian,Portus Sur,Portus,2,1,-26.4,26.4,15,1,July,W,0,-1.0743763962554231,37.58380248919266
+2014-07-15,Portus Sur 2,Julio,Kilian,Portus Sur,Portus,2,2,-26.4,26.4,15,1,July,W,0,-1.075115761725938,37.582792065717896
+2014-07-15,Portus Sur 3,Julio,Kilian,Portus Sur,Portus,2,3,-26.4,26.4,15,1,July,W,0,-1.0758096193286752,37.58174288562253
+2014-07-15,Portus Sur 4,Julio,Kilian,Portus Sur,Portus,2,4,-26.4,26.4,15,1,July,W,0,-1.0769507560240705,37.58136659117707
+2014-07-15,Portus Sur 5,Julio,Kilian,Portus Sur,Portus,2,5,-26.4,26.4,15,1,July,W,0,-1.0784756924097159,37.5816804891649
+2014-07-15,Portus Sur 6,Julio,Kilian,Portus Sur,Portus,2,6,-26.4,26.4,15,1,July,W,0,-1.0793651993149584,37.58100622600231
+2014-07-17,Azohía Norte 1,Julio,Damián,Azohía Norte,Azohía,1,1,-45.3,45.3,17,1,July,W,0.2,-1.1732605224247834,37.56160799044508
+2014-07-17,Azohía Norte 2,Julio,Damián,Azohía Norte,Azohía,1,2,-45.3,45.3,17,1,July,W,0,-1.172235535358466,37.56060385284755
+2014-07-17,Azohía Norte 3,Julio,Damián,Azohía Norte,Azohía,1,3,-45.3,45.3,17,1,July,W,0,-1.1711853525263518,37.55938501062509
+2014-07-17,Azohía Norte 4,Julio,Damián,Azohía Norte,Azohía,1,4,-45.3,45.3,17,1,July,W,0,-1.1699751863059409,37.558346893666894
+2014-07-17,Azohía Norte 5,Julio,Damián,Azohía Norte,Azohía,1,5,-45.3,45.3,17,1,July,W,0.4,-1.1692856094323445,37.5573837475713
+2014-07-17,Azohía Norte 6,Julio,Damián,Azohía Norte,Azohía,1,6,-45.3,45.3,17,1,July,W,0,-1.169792379976926,37.556271042488525
+2014-07-17,Azohía Sur 1,Julio,Pablo S,Azohía Sur,Azohía,2,1,-45.3,45.3,17,1,July,W,0.2,-1.1768864942248536,37.5638445738397
+2014-07-17,Azohía Sur 2,Julio,Pablo S,Azohía Sur,Azohía,2,2,-45.3,45.3,17,1,July,W,0.2,-1.1781940879721122,37.56453969500009
+2014-07-17,Azohía Sur 3,Julio,Pablo S,Azohía Sur,Azohía,2,3,-45.3,45.3,17,1,July,W,0,-1.1796434687481394,37.56523484735376
+2014-07-17,Azohía Sur 4,Julio,Pablo S,Azohía Sur,Azohía,2,4,-45.3,45.3,17,1,July,W,0,-1.1810910585686913,37.56583434698727
+2014-07-17,Azohía Sur 5,Julio,Pablo S,Azohía Sur,Azohía,2,5,-45.3,45.3,17,1,July,W,0,-1.1829425745996418,37.56644258205883
+2014-07-17,Azohía Sur 6,Julio,Pablo S,Azohía Sur,Azohía,2,6,-45.3,45.3,17,1,July,W,0,-1.1847340894221312,37.56702986463094
+2014-08-13,Gorguel Norte 1,Agosto,Kilian,Gorguel Norte,Gorguel,1,1,0.7,0.7,13,2,August,E,0,-0.8750087147747092,37.57724244056245
+2014-08-13,Gorguel Norte 2,Agosto,Kilian,Gorguel Norte,Gorguel,1,2,0.7,0.7,13,2,August,E,0,-0.87432932190601,37.576339765969294
+2014-08-13,Gorguel Norte 3,Agosto,Kilian,Gorguel Norte,Gorguel,1,3,0.7,0.7,13,2,August,E,0,-0.8733510897173034,37.57556024775284
+2014-08-13,Gorguel Norte 4,Agosto,Kilian,Gorguel Norte,Gorguel,1,4,0.7,0.7,13,2,August,E,0,-0.8721259515903053,37.57503512329815
+2014-08-13,Gorguel Norte 5,Agosto,Kilian,Gorguel Norte,Gorguel,1,5,0.7,0.7,13,2,August,E,0,-0.8709909095010537,37.57494475096319
+2014-08-13,Gorguel Norte 6,Agosto,Kilian,Gorguel Norte,Gorguel,1,6,0.7,0.7,13,2,August,E,0,-0.8699712242607747,37.575608293129164
+2014-08-13,Gorguel Sur 1,Agosto,Pablo A,Gorguel Sur,Gorguel,2,1,0.7,0.7,13,2,August,E,8.6,-0.8775913533706488,37.57667554113447
+2014-08-13,Gorguel Sur 2,Agosto,Pablo A,Gorguel Sur,Gorguel,2,2,0.7,0.7,13,2,August,E,0,-0.8784095676731632,37.57587260032297
+2014-08-13,Gorguel Sur 3,Agosto,Pablo A,Gorguel Sur,Gorguel,2,3,0.7,0.7,13,2,August,E,0,-0.8781568386722952,37.574913196688804
+2014-08-13,Gorguel Sur 4,Agosto,Pablo A,Gorguel Sur,Gorguel,2,4,0.7,0.7,13,2,August,E,0.6,-0.8788438519251202,37.57433139190499
+2014-08-13,Gorguel Sur 5,Agosto,Pablo A,Gorguel Sur,Gorguel,2,5,0.7,0.7,13,2,August,E,0.4,-0.8789067569951309,37.57346321707799
+2014-08-13,Gorguel Sur 6,Agosto,Pablo A,Gorguel Sur,Gorguel,2,6,0.7,0.7,13,2,August,E,0,-0.8784559812420466,37.572468165164054
+2014-08-13,Portman Norte 1,Agosto,Kilian,Portman Norte,Portman,1,1,4.4,4.4,13,2,August,E,0.2,-0.8470689541460799,37.58148147782686
+2014-08-13,Portman Norte 2,Agosto,Kilian,Portman Norte,Portman,1,2,4.4,4.4,13,2,August,E,0.2,-0.8457111150864232,37.58110749883235
+2014-08-13,Portman Norte 3,Agosto,Kilian,Portman Norte,Portman,1,3,4.4,4.4,13,2,August,E,2.6,-0.8443271949137889,37.580600479365216
+2014-08-13,Portman Norte 4,Agosto,Kilian,Portman Norte,Portman,1,4,4.4,4.4,13,2,August,E,0,-0.8438824696087305,37.579837254475976
+2014-08-13,Portman Norte 5,Agosto,Kilian,Portman Norte,Portman,1,5,4.4,4.4,13,2,August,E,0,-0.8442130355568538,37.57894645959785
+2014-08-13,Portman Norte 6,Agosto,Kilian,Portman Norte,Portman,1,6,4.4,4.4,13,2,August,E,0,-0.84315700833679,37.578910832885136
+2014-08-13,Portman Sur 1,Agosto,Pablo A,Portman Sur,Portman,2,1,4.4,4.4,13,2,August,E,3.2,-0.8512211588392007,37.582080428501904
+2014-08-13,Portman Sur 2,Agosto,Pablo A,Portman Sur,Portman,2,2,4.4,4.4,13,2,August,E,0.8,-0.8526641525654294,37.58198533983195
+2014-08-13,Portman Sur 3,Agosto,Pablo A,Portman Sur,Portman,2,3,4.4,4.4,13,2,August,E,0.2,-0.8532774510895325,37.58107706345728
+2014-08-13,Portman Sur 4,Agosto,Pablo A,Portman Sur,Portman,2,4,4.4,4.4,13,2,August,E,0,-0.8541334600186418,37.58023258981674
+2014-08-13,Portman Sur 5,Agosto,Pablo A,Portman Sur,Portman,2,5,4.4,4.4,13,2,August,E,0,-0.8554545893971136,37.57980005082528
+2014-08-13,Portman Sur 6,Agosto,Pablo A,Portman Sur,Portman,2,6,4.4,4.4,13,2,August,E,0,-0.8569564966215046,37.57970266697826
+2014-08-16,Atamaría Norte 1,Agosto,Vicky,Atamaría Norte,Atamaría,1,1,10.1,10.1,16,2,August,E,4.4,-0.792216541985035,37.58716664163524
+2014-08-16,Atamaría Norte 2,Agosto,Vicky,Atamaría Norte,Atamaría,1,2,10.1,10.1,16,2,August,E,0,-0.7910117888913019,37.58659907857346
+2014-08-16,Atamaría Norte 3,Agosto,Vicky,Atamaría Norte,Atamaría,1,3,10.1,10.1,16,2,August,E,0,-0.7903395623489461,37.58705057051856
+2014-08-16,Atamaría Norte 4,Agosto,Vicky,Atamaría Norte,Atamaría,1,4,10.1,10.1,16,2,August,E,0,-0.7893100566595014,37.58753635750897
+2014-08-16,Atamaría Norte 5,Agosto,Vicky,Atamaría Norte,Atamaría,1,5,10.1,10.1,16,2,August,E,0,-0.788526153610931,37.58804854893276
+2014-08-16,Atamaría Norte 6,Agosto,Vicky,Atamaría Norte,Atamaría,1,6,10.1,10.1,16,2,August,E,0,-0.7883579566849196,37.589030106994365
+2014-08-16,Atamaría Sur 1,Agosto,Kilian,Atamaría Sur,Atamaría,2,1,10.1,10.1,16,2,August,E,0,-0.7934768974786468,37.58673920121141
+2014-08-16,Atamaría Sur 2,Agosto,Kilian,Atamaría Sur,Atamaría,2,2,10.1,10.1,16,2,August,E,0,-0.7945848528787823,37.586754779340524
+2014-08-16,Atamaría Sur 3,Agosto,Kilian,Atamaría Sur,Atamaría,2,3,10.1,10.1,16,2,August,E,0,-0.795919524776215,37.586684271726725
+2014-08-16,Atamaría Sur 4,Agosto,Kilian,Atamaría Sur,Atamaría,2,4,10.1,10.1,16,2,August,E,0,-0.797110757539625,37.58597573146668
+2014-08-16,Atamaría Sur 5,Agosto,Kilian,Atamaría Sur,Atamaría,2,5,10.1,10.1,16,2,August,E,0,-0.7981944824169127,37.585553616387635
+2014-08-16,Atamaría Sur 6,Agosto,Kilian,Atamaría Sur,Atamaría,2,6,10.1,10.1,16,2,August,E,0,-0.799532449330165,37.58552500899153
+2014-08-16,Cabo Palos Norte 1,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,1,23.7,23.7,16,2,August,E,0,-0.6931199104164123,37.6306649962902
+2014-08-16,Cabo Palos Norte 2,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,2,23.7,23.7,16,2,August,E,0,-0.692394959469171,37.63076026336756
+2014-08-16,Cabo Palos Norte 3,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,3,23.7,23.7,16,2,August,E,0,-0.6919004515414057,37.631499339710366
+2014-08-16,Cabo Palos Norte 4,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,4,23.7,23.7,16,2,August,E,0,-0.6913460606894714,37.63192756369512
+2014-08-16,Cabo Palos Norte 5,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,5,23.7,23.7,16,2,August,E,0,-0.6907581671405953,37.63218254172039
+2014-08-16,Cabo Palos Norte 6,Agosto,Vicky,Cabo Palos Norte,Cabo Palos,1,6,23.7,23.7,16,2,August,E,0,-0.6897849532245113,37.63219358655926
+2014-08-16,Cabo Palos Sur 1,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,1,23.7,23.7,16,2,August,E,0,-0.6947691752764357,37.63010585331086
+2014-08-16,Cabo Palos Sur 2,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,2,23.7,23.7,16,2,August,E,0,-0.6954434127964544,37.629861454417004
+2014-08-16,Cabo Palos Sur 3,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,3,23.7,23.7,16,2,August,E,0,-0.6963100532947496,37.63015856689802
+2014-08-16,Cabo Palos Sur 4,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,4,23.7,23.7,16,2,August,E,0,-0.6973152520998414,37.6305050287697
+2014-08-16,Cabo Palos Sur 5,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,5,23.7,23.7,16,2,August,E,0,-0.6982150488145734,37.63033101772772
+2014-08-16,Cabo Palos Sur 6,Agosto,Kilian,Cabo Palos Sur,Cabo Palos,2,6,23.7,23.7,16,2,August,E,0,-0.6989474805769089,37.63041991575566
+2014-08-13,Cala Cortina Norte 1,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,1,-12.6,12.6,13,2,August,W,0.6,-0.9749967500983228,37.58098431509958
+2014-08-13,Cala Cortina Norte 2,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,2,-12.6,12.6,13,2,August,W,0.6,-0.9750597917674639,37.58033486269096
+2014-08-13,Cala Cortina Norte 3,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,3,-12.6,12.6,13,2,August,W,0.2,-0.9749603531298621,37.57981434766932
+2014-08-13,Cala Cortina Norte 4,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,4,-12.6,12.6,13,2,August,W,0,-0.9756821958419826,37.579387635252175
+2014-08-13,Cala Cortina Norte 5,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,5,-12.6,12.6,13,2,August,W,0,-0.9759048073918134,37.5787321087419
+2014-08-13,Cala Cortina Norte 6,Agosto,Kilian,Cala Cortina Norte,Calacortina,1,6,-12.6,12.6,13,2,August,W,0,-0.9761632876451245,37.57771503763012
+2014-08-13,Cala Cortina Sur 1,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,1,-12.6,12.6,13,2,August,W,1,-0.9760037822798991,37.581011767382705
+2014-08-13,Cala Cortina Sur 2,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,2,-12.6,12.6,13,2,August,W,0,-0.9771788826155267,37.58076473063874
+2014-08-13,Cala Cortina Sur 3,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,3,-12.6,12.6,13,2,August,W,0,-0.9783307316805951,37.58140518748672
+2014-08-13,Cala Cortina Sur 4,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,4,-12.6,12.6,13,2,August,W,0,-0.9785233753487566,37.58232814522628
+2014-08-13,Cala Cortina Sur 5,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,5,-12.6,12.6,13,2,August,W,0,-0.9787947228358829,37.58296019957474
+2014-08-13,Cala Cortina Sur 6,Agosto,Pablo A,Cala Cortina Sur,Calacortina,2,6,-12.6,12.6,13,2,August,W,0,-0.9783549360573502,37.5840476435696
+2014-08-14,Portus Norte 1,Agosto,David,Portus Norte,Portus,1,1,-26.4,26.4,14,2,August,W,0,-1.0717922498478158,37.58376472092362
+2014-08-14,Portus Norte 2,Agosto,David,Portus Norte,Portus,1,2,-26.4,26.4,14,2,August,W,0,-1.0707221947908168,37.583145192229146
+2014-08-14,Portus Norte 3,Agosto,David,Portus Norte,Portus,1,3,-26.4,26.4,14,2,August,W,0,-1.0705778714880163,37.5821130857173
+2014-08-14,Portus Norte 4,Agosto,David,Portus Norte,Portus,1,4,-26.4,26.4,14,2,August,W,0,-1.0694067105079152,37.58205092445266
+2014-08-14,Portus Norte 5,Agosto,David,Portus Norte,Portus,1,5,-26.4,26.4,14,2,August,W,0,-1.0686672211361248,37.58143131508414
+2014-08-14,Portus Norte 6,Agosto,David,Portus Norte,Portus,1,6,-26.4,26.4,14,2,August,W,0,-1.0684385177108415,37.58073274011703
+2014-08-14,Portus Sur 1,Agosto,Kilian,Portus Sur,Portus,2,1,-26.4,26.4,14,2,August,W,0.2,-1.0743763962554231,37.58380248919266
+2014-08-14,Portus Sur 2,Agosto,Kilian,Portus Sur,Portus,2,2,-26.4,26.4,14,2,August,W,0.2,-1.075115761725938,37.582792065717896
+2014-08-14,Portus Sur 3,Agosto,Kilian,Portus Sur,Portus,2,3,-26.4,26.4,14,2,August,W,0,-1.0758096193286752,37.58174288562253
+2014-08-14,Portus Sur 4,Agosto,Kilian,Portus Sur,Portus,2,4,-26.4,26.4,14,2,August,W,0,-1.0769507560240705,37.58136659117707
+2014-08-14,Portus Sur 5,Agosto,Kilian,Portus Sur,Portus,2,5,-26.4,26.4,14,2,August,W,0,-1.0784756924097159,37.5816804891649
+2014-08-14,Portus Sur 6,Agosto,Kilian,Portus Sur,Portus,2,6,-26.4,26.4,14,2,August,W,0.6,-1.0793651993149584,37.58100622600231
+2014-08-14,Azohía Norte 1,Agosto,Kilian,Azohía Norte,Azohía,1,1,-45.3,45.3,14,2,August,W,0,-1.1732605224247834,37.56160799044508
+2014-08-14,Azohía Norte 2,Agosto,Kilian,Azohía Norte,Azohía,1,2,-45.3,45.3,14,2,August,W,0.2,-1.172235535358466,37.56060385284755
+2014-08-14,Azohía Norte 3,Agosto,Kilian,Azohía Norte,Azohía,1,3,-45.3,45.3,14,2,August,W,0,-1.1711853525263518,37.55938501062509
+2014-08-14,Azohía Norte 4,Agosto,Kilian,Azohía Norte,Azohía,1,4,-45.3,45.3,14,2,August,W,0,-1.1699751863059409,37.558346893666894
+2014-08-14,Azohía Norte 5,Agosto,Kilian,Azohía Norte,Azohía,1,5,-45.3,45.3,14,2,August,W,0.2,-1.1692856094323445,37.5573837475713
+2014-08-14,Azohía Norte 6,Agosto,Kilian,Azohía Norte,Azohía,1,6,-45.3,45.3,14,2,August,W,0,-1.169792379976926,37.556271042488525
+2014-08-14,Azohía Sur 1,Agosto,David,Azohía Sur,Azohía,2,1,-45.3,45.3,14,2,August,W,0,-1.1768864942248536,37.5638445738397
+2014-08-14,Azohía Sur 2,Agosto,David,Azohía Sur,Azohía,2,2,-45.3,45.3,14,2,August,W,0,-1.1781940879721122,37.56453969500009
+2014-08-14,Azohía Sur 3,Agosto,David,Azohía Sur,Azohía,2,3,-45.3,45.3,14,2,August,W,0,-1.1796434687481394,37.56523484735376
+2014-08-14,Azohía Sur 4,Agosto,David,Azohía Sur,Azohía,2,4,-45.3,45.3,14,2,August,W,0,-1.1810910585686913,37.56583434698727
+2014-08-14,Azohía Sur 5,Agosto,David,Azohía Sur,Azohía,2,5,-45.3,45.3,14,2,August,W,0,-1.1829425745996418,37.56644258205883
+2014-08-14,Azohía Sur 6,Agosto,David,Azohía Sur,Azohía,2,6,-45.3,45.3,14,2,August,W,0,-1.1847340894221312,37.56702986463094
+2014-09-24,Gorguel Norte 1,Septiembre,Kilian,Gorguel Norte,Gorguel,1,1,0.7,0.7,24,3,September,E,0.2,-0.8750087147747092,37.57724244056245
+2014-09-24,Gorguel Norte 2,Septiembre,Kilian,Gorguel Norte,Gorguel,1,2,0.7,0.7,24,3,September,E,0,-0.87432932190601,37.576339765969294
+2014-09-24,Gorguel Norte 3,Septiembre,Kilian,Gorguel Norte,Gorguel,1,3,0.7,0.7,24,3,September,E,0,-0.8733510897173034,37.57556024775284
+2014-09-24,Gorguel Norte 4,Septiembre,Kilian,Gorguel Norte,Gorguel,1,4,0.7,0.7,24,3,September,E,0,-0.8721259515903053,37.57503512329815
+2014-09-24,Gorguel Norte 5,Septiembre,Kilian,Gorguel Norte,Gorguel,1,5,0.7,0.7,24,3,September,E,0,-0.8709909095010537,37.57494475096319
+2014-09-24,Gorguel Norte 6,Septiembre,Kilian,Gorguel Norte,Gorguel,1,6,0.7,0.7,24,3,September,E,0,-0.8699712242607747,37.575608293129164
+2014-09-24,Gorguel Sur 1,Septiembre,David,Gorguel Sur,Gorguel,2,1,0.7,0.7,24,3,September,E,0,-0.8775913533706488,37.57667554113447
+2014-09-24,Gorguel Sur 2,Septiembre,David,Gorguel Sur,Gorguel,2,2,0.7,0.7,24,3,September,E,0,-0.8784095676731632,37.57587260032297
+2014-09-24,Gorguel Sur 3,Septiembre,David,Gorguel Sur,Gorguel,2,3,0.7,0.7,24,3,September,E,0,-0.8781568386722952,37.574913196688804
+2014-09-24,Gorguel Sur 4,Septiembre,David,Gorguel Sur,Gorguel,2,4,0.7,0.7,24,3,September,E,0,-0.8788438519251202,37.57433139190499
+2014-09-24,Gorguel Sur 5,Septiembre,David,Gorguel Sur,Gorguel,2,5,0.7,0.7,24,3,September,E,0,-0.8789067569951309,37.57346321707799
+2014-09-24,Gorguel Sur 6,Septiembre,David,Gorguel Sur,Gorguel,2,6,0.7,0.7,24,3,September,E,0.2,-0.8784559812420466,37.572468165164054
+2014-09-23,Portman Norte 1,Septiembre,David,Portman Norte,Portman,1,1,4.4,4.4,23,3,September,E,0.4,-0.8470689541460799,37.58148147782686
+2014-09-23,Portman Norte 2,Septiembre,David,Portman Norte,Portman,1,2,4.4,4.4,23,3,September,E,0,-0.8457111150864232,37.58110749883235
+2014-09-23,Portman Norte 3,Septiembre,David,Portman Norte,Portman,1,3,4.4,4.4,23,3,September,E,0,-0.8443271949137889,37.580600479365216
+2014-09-23,Portman Norte 4,Septiembre,David,Portman Norte,Portman,1,4,4.4,4.4,23,3,September,E,0,-0.8438824696087305,37.579837254475976
+2014-09-23,Portman Norte 5,Septiembre,David,Portman Norte,Portman,1,5,4.4,4.4,23,3,September,E,0,-0.8442130355568538,37.57894645959785
+2014-09-23,Portman Norte 6,Septiembre,David,Portman Norte,Portman,1,6,4.4,4.4,23,3,September,E,0,-0.84315700833679,37.578910832885136
+2014-09-23,Portman Sur 1,Septiembre,Kilian,Portman Sur,Portman,2,1,4.4,4.4,23,3,September,E,0.2,-0.8512211588392007,37.582080428501904
+2014-09-23,Portman Sur 2,Septiembre,Kilian,Portman Sur,Portman,2,2,4.4,4.4,23,3,September,E,0,-0.8526641525654294,37.58198533983195
+2014-09-23,Portman Sur 3,Septiembre,Kilian,Portman Sur,Portman,2,3,4.4,4.4,23,3,September,E,0,-0.8532774510895325,37.58107706345728
+2014-09-23,Portman Sur 4,Septiembre,Kilian,Portman Sur,Portman,2,4,4.4,4.4,23,3,September,E,0,-0.8541334600186418,37.58023258981674
+2014-09-23,Portman Sur 5,Septiembre,Kilian,Portman Sur,Portman,2,5,4.4,4.4,23,3,September,E,0,-0.8554545893971136,37.57980005082528
+2014-09-23,Portman Sur 6,Septiembre,Kilian,Portman Sur,Portman,2,6,4.4,4.4,23,3,September,E,0,-0.8569564966215046,37.57970266697826
+2014-09-23,Atamaría Norte 1,Septiembre,Kilian,Atamaría Norte,Atamaría,1,1,10.1,10.1,23,3,September,E,0,-0.792216541985035,37.58716664163524
+2014-09-23,Atamaría Norte 2,Septiembre,Kilian,Atamaría Norte,Atamaría,1,2,10.1,10.1,23,3,September,E,2.2,-0.7910117888913019,37.58659907857346
+2014-09-23,Atamaría Norte 3,Septiembre,Kilian,Atamaría Norte,Atamaría,1,3,10.1,10.1,23,3,September,E,0,-0.7903395623489461,37.58705057051856
+2014-09-23,Atamaría Norte 4,Septiembre,Kilian,Atamaría Norte,Atamaría,1,4,10.1,10.1,23,3,September,E,0,-0.7893100566595014,37.58753635750897
+2014-09-23,Atamaría Norte 5,Septiembre,Kilian,Atamaría Norte,Atamaría,1,5,10.1,10.1,23,3,September,E,0,-0.788526153610931,37.58804854893276
+2014-09-23,Atamaría Norte 6,Septiembre,Kilian,Atamaría Norte,Atamaría,1,6,10.1,10.1,23,3,September,E,0,-0.7883579566849196,37.589030106994365
+2014-09-23,Atamaría Sur 1,Septiembre,David,Atamaría Sur,Atamaría,2,1,10.1,10.1,23,3,September,E,0,-0.7934768974786468,37.58673920121141
+2014-09-23,Atamaría Sur 2,Septiembre,David,Atamaría Sur,Atamaría,2,2,10.1,10.1,23,3,September,E,0,-0.7945848528787823,37.586754779340524
+2014-09-23,Atamaría Sur 3,Septiembre,David,Atamaría Sur,Atamaría,2,3,10.1,10.1,23,3,September,E,0,-0.795919524776215,37.586684271726725
+2014-09-23,Atamaría Sur 4,Septiembre,David,Atamaría Sur,Atamaría,2,4,10.1,10.1,23,3,September,E,0,-0.797110757539625,37.58597573146668
+2014-09-23,Atamaría Sur 5,Septiembre,David,Atamaría Sur,Atamaría,2,5,10.1,10.1,23,3,September,E,0,-0.7981944824169127,37.585553616387635
+2014-09-23,Atamaría Sur 6,Septiembre,David,Atamaría Sur,Atamaría,2,6,10.1,10.1,23,3,September,E,0,-0.799532449330165,37.58552500899153
+2014-09-23,Cabo Palos Norte 1,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,1,23.7,23.7,23,3,September,E,0,-0.6931199104164123,37.6306649962902
+2014-09-23,Cabo Palos Norte 2,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,2,23.7,23.7,23,3,September,E,0,-0.692394959469171,37.63076026336756
+2014-09-23,Cabo Palos Norte 3,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,3,23.7,23.7,23,3,September,E,0,-0.6919004515414057,37.631499339710366
+2014-09-23,Cabo Palos Norte 4,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,4,23.7,23.7,23,3,September,E,0,-0.6913460606894714,37.63192756369512
+2014-09-23,Cabo Palos Norte 5,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,5,23.7,23.7,23,3,September,E,0,-0.6907581671405953,37.63218254172039
+2014-09-23,Cabo Palos Norte 6,Septiembre,Kilian,Cabo Palos Norte,Cabo Palos,1,6,23.7,23.7,23,3,September,E,0,-0.6897849532245113,37.63219358655926
+2014-09-23,Cabo Palos Sur 1,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,1,23.7,23.7,23,3,September,E,0,-0.6947691752764357,37.63010585331086
+2014-09-23,Cabo Palos Sur 2,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,2,23.7,23.7,23,3,September,E,0,-0.6954434127964544,37.629861454417004
+2014-09-23,Cabo Palos Sur 3,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,3,23.7,23.7,23,3,September,E,0,-0.6963100532947496,37.63015856689802
+2014-09-23,Cabo Palos Sur 4,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,4,23.7,23.7,23,3,September,E,0,-0.6973152520998414,37.6305050287697
+2014-09-23,Cabo Palos Sur 5,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,5,23.7,23.7,23,3,September,E,0,-0.6982150488145734,37.63033101772772
+2014-09-23,Cabo Palos Sur 6,Septiembre,David,Cabo Palos Sur,Cabo Palos,2,6,23.7,23.7,23,3,September,E,0,-0.6989474805769089,37.63041991575566
+2014-09-23,Cala Cortina Norte 1,Septiembre,David,Cala Cortina Norte,Calacortina,1,1,-12.6,12.6,23,3,September,W,0.2,-0.9749967500983228,37.58098431509958
+2014-09-23,Cala Cortina Norte 2,Septiembre,David,Cala Cortina Norte,Calacortina,1,2,-12.6,12.6,23,3,September,W,0.8,-0.9750597917674639,37.58033486269096
+2014-09-23,Cala Cortina Norte 3,Septiembre,David,Cala Cortina Norte,Calacortina,1,3,-12.6,12.6,23,3,September,W,0,-0.9749603531298621,37.57981434766932
+2014-09-23,Cala Cortina Norte 4,Septiembre,David,Cala Cortina Norte,Calacortina,1,4,-12.6,12.6,23,3,September,W,0,-0.9756821958419826,37.579387635252175
+2014-09-23,Cala Cortina Norte 5,Septiembre,David,Cala Cortina Norte,Calacortina,1,5,-12.6,12.6,23,3,September,W,0,-0.9759048073918134,37.5787321087419
+2014-09-23,Cala Cortina Norte 6,Septiembre,David,Cala Cortina Norte,Calacortina,1,6,-12.6,12.6,23,3,September,W,0,-0.9761632876451245,37.57771503763012
+2014-09-23,Cala Cortina Sur 1,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,1,-12.6,12.6,23,3,September,W,2.6,-0.9760037822798991,37.581011767382705
+2014-09-23,Cala Cortina Sur 2,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,2,-12.6,12.6,23,3,September,W,0.2,-0.9771788826155267,37.58076473063874
+2014-09-23,Cala Cortina Sur 3,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,3,-12.6,12.6,23,3,September,W,0,-0.9783307316805951,37.58140518748672
+2014-09-23,Cala Cortina Sur 4,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,4,-12.6,12.6,23,3,September,W,0,-0.9785233753487566,37.58232814522628
+2014-09-23,Cala Cortina Sur 5,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,5,-12.6,12.6,23,3,September,W,0,-0.9787947228358829,37.58296019957474
+2014-09-23,Cala Cortina Sur 6,Septiembre,Kilian,Cala Cortina Sur,Calacortina,2,6,-12.6,12.6,23,3,September,W,0,-0.9783549360573502,37.5840476435696
+2014-09-23,Portus Norte 1,Septiembre,David,Portus Norte,Portus,1,1,-26.4,26.4,23,3,September,W,0,-1.0717922498478158,37.58376472092362
+2014-09-23,Portus Norte 2,Septiembre,David,Portus Norte,Portus,1,2,-26.4,26.4,23,3,September,W,0,-1.0707221947908168,37.583145192229146
+2014-09-23,Portus Norte 3,Septiembre,David,Portus Norte,Portus,1,3,-26.4,26.4,23,3,September,W,0,-1.0705778714880163,37.5821130857173
+2014-09-23,Portus Norte 4,Septiembre,David,Portus Norte,Portus,1,4,-26.4,26.4,23,3,September,W,0,-1.0694067105079152,37.58205092445266
+2014-09-23,Portus Norte 5,Septiembre,David,Portus Norte,Portus,1,5,-26.4,26.4,23,3,September,W,0,-1.0686672211361248,37.58143131508414
+2014-09-23,Portus Norte 6,Septiembre,David,Portus Norte,Portus,1,6,-26.4,26.4,23,3,September,W,0,-1.0684385177108415,37.58073274011703
+2014-09-23,Portus Sur 1,Septiembre,Kilian,Portus Sur,Portus,2,1,-26.4,26.4,23,3,September,W,0,-1.0743763962554231,37.58380248919266
+2014-09-23,Portus Sur 2,Septiembre,Kilian,Portus Sur,Portus,2,2,-26.4,26.4,23,3,September,W,0,-1.075115761725938,37.582792065717896
+2014-09-23,Portus Sur 3,Septiembre,Kilian,Portus Sur,Portus,2,3,-26.4,26.4,23,3,September,W,0,-1.0758096193286752,37.58174288562253
+2014-09-23,Portus Sur 4,Septiembre,Kilian,Portus Sur,Portus,2,4,-26.4,26.4,23,3,September,W,0,-1.0769507560240705,37.58136659117707
+2014-09-23,Portus Sur 5,Septiembre,Kilian,Portus Sur,Portus,2,5,-26.4,26.4,23,3,September,W,0,-1.0784756924097159,37.5816804891649
+2014-09-23,Portus Sur 6,Septiembre,Kilian,Portus Sur,Portus,2,6,-26.4,26.4,23,3,September,W,0.4,-1.0793651993149584,37.58100622600231
+2014-09-24,Azohía Norte 1,Septiembre,Kilian,Azohía Norte,Azohía,1,1,-45.3,45.3,24,3,September,W,0,-1.1732605224247834,37.56160799044508
+2014-09-24,Azohía Norte 2,Septiembre,Kilian,Azohía Norte,Azohía,1,2,-45.3,45.3,24,3,September,W,0,-1.172235535358466,37.56060385284755
+2014-09-24,Azohía Norte 3,Septiembre,Kilian,Azohía Norte,Azohía,1,3,-45.3,45.3,24,3,September,W,0,-1.1711853525263518,37.55938501062509
+2014-09-24,Azohía Norte 4,Septiembre,Kilian,Azohía Norte,Azohía,1,4,-45.3,45.3,24,3,September,W,0,-1.1699751863059409,37.558346893666894
+2014-09-24,Azohía Norte 5,Septiembre,Kilian,Azohía Norte,Azohía,1,5,-45.3,45.3,24,3,September,W,0,-1.1692856094323445,37.5573837475713
+2014-09-24,Azohía Norte 6,Septiembre,Kilian,Azohía Norte,Azohía,1,6,-45.3,45.3,24,3,September,W,0,-1.169792379976926,37.556271042488525
+2014-09-24,Azohía Sur 1,Septiembre,David,Azohía Sur,Azohía,2,1,-45.3,45.3,24,3,September,W,0,-1.1768864942248536,37.5638445738397
+2014-09-24,Azohía Sur 2,Septiembre,David,Azohía Sur,Azohía,2,2,-45.3,45.3,24,3,September,W,0,-1.1781940879721122,37.56453969500009
+2014-09-24,Azohía Sur 3,Septiembre,David,Azohía Sur,Azohía,2,3,-45.3,45.3,24,3,September,W,0,-1.1796434687481394,37.56523484735376
+2014-09-24,Azohía Sur 4,Septiembre,David,Azohía Sur,Azohía,2,4,-45.3,45.3,24,3,September,W,0,-1.1810910585686913,37.56583434698727
+2014-09-24,Azohía Sur 5,Septiembre,David,Azohía Sur,Azohía,2,5,-45.3,45.3,24,3,September,W,0,-1.1829425745996418,37.56644258205883
+2014-09-24,Azohía Sur 6,Septiembre,David,Azohía Sur,Azohía,2,6,-45.3,45.3,24,3,September,W,0,-1.1847340894221312,37.56702986463094
