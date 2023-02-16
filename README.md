@@ -1,14 +1,14 @@
 # ESCAPED FISH DISPERSAL FROM A SABOTAGED FARM
 
-Javier Atalah1\*, Kilian Toledo-Guedes^1^, David Izquierdo2, Damián Fernandez-Jover^1^, Pablo Arechavala-Lopez^3^, and Pablo Sanchez-Jerez^1^.
+Javier Atalah<sup>1*</sup>, Kilian Toledo-Guedes<sup>1^</sup>, David Izquierdo<sup>2</sup>, Damián Fernandez-Jover<sup>1</sup>, Pablo Arechavala-Lopez<sup>3</sup>, and Pablo Sanchez-Jerez<sup>1</sup>.
 
-^1^Department of Marine Science and Applied Biology, University of Alicante, Spain.
+<sup>1</sup>Department of Marine Science and Applied Biology, University of Alicante, Spain.
 
-^3^College STEE (Sciences and Technologies of the Energy and the Environment), the University of Pau and the Adour Region (UPPA), Pyrénées-Atlantiques, France.
+<sup>3</sup>College STEE (Sciences and Technologies of the Energy and the Environment), the University of Pau and the Adour Region (UPPA), Pyrénées-Atlantiques, France.
 
-^4^Department of Salmonid Fishes, Norwegian Institute for Nature Research (NINA), Trondheim, Norway
+<sup>4</sup>Department of Salmonid Fishes, Norwegian Institute for Nature Research (NINA), Trondheim, Norway
 
-^5^Fish Ecology Lab, Institut Mediterràni d′Estudis Avançats (IMEDEA), CSIC-UIB, Esporles, Spain
+<sup>5</sup>Fish Ecology Lab, Institut Mediterràni d′Estudis Avançats (IMEDEA), CSIC-UIB, Esporles, Spain
 
 \*[j.atalah\@ua.es](mailto:j.atalah@ua.es)
 
