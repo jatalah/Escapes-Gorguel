@@ -6,8 +6,9 @@ esc_d <-
   mutate(month = fct_relevel(month, c("July","August"))) 
 
 #data summaries------------
-esc_d %>% 
-  group_by(distance, month) %>% 
+dd <-
+  esc_d %>%
+  group_by(distance, orientation, month) %>%
   summarise(
     mean = mean(density),
     sd = sd(density),
@@ -15,22 +16,38 @@ esc_d %>%
     se = sd / sqrt(n),
     .groups = 'drop'
   ) %>% 
-  arrange(month) %>% 
-  dplyr::filter(month == "August")
-
+  add_row(
+    distance = rep(0, 3),
+    orientation = rep("W", 3),
+    month = c("July", "August", "September"),
+    mean = c(114, 08, 0.0333),
+    se = c(44.7, 0.711, 0.0225)
+  ) %>% 
+  mutate(distance = if_else(distance == 0.7, 0, distance),
+         lower = mean - se,
+         upper = mean + se) %>% 
+  arrange(distance)
 
 # sketch plot-------------
-ggplot(esc_d, aes(distance, density, color = month, group = month)) +
-  scale_y_continuous(trans = "log1p", breaks = c(0,10,100,1000), labels = c(0,10,100,1000)) +
-  geom_point(alpha = .2,
-             position = position_jitter(width = .5),
-             size = 1) +
-  stat_summary(fun.data = "mean_se",
-               size = .1) +
-  stat_summary(fun.data = mean_se,
-               geom = 'line',
-               linewidth = .1) +
+ggplot(dd, aes(distance, mean, color = month)) +
+  geom_point(
+    # position = position_jitter(width = .5, seed = 123),
+    size = 1,
+    alpha = .8
+  ) +
+  geom_errorbar(
+    aes(ymin = lower , ymax = upper),
+    width = 0.1,
+    # position = position_jitter(width = .5, seed = 123),
+    alpha = .8
+  ) +
+  geom_line(linewidth = .2) +
   facet_wrap(~ fct_rev(orientation), scales = 'fixed') +
+  scale_y_continuous(
+    trans = 'sqrt',
+    breaks = c(0, 10, 25, 50, 100, 150),
+    labels = c(0, 10, 25, 50, 100, 150)
+  ) +
   theme_bw(base_size = 7) +
   theme(
     panel.grid.major = element_blank(),
@@ -47,11 +64,13 @@ ggplot(esc_d, aes(distance, density, color = month, group = month)) +
        parse = T) +
   scale_color_tableau(name = NULL)
 
+last_plot()
+
 
 # save figure 2--------------
 ggsave(
   last_plot(),
-  filename = "figures/figure_2.pdf",
+  filename = "figures/figure_2.png",
   width = 90,
   height = 40,
   bg = "white",
@@ -61,7 +80,7 @@ ggsave(
 
 ggsave(
   last_plot(),
-  filename = "figures/figure_2.png",
+  filename = "figures/figure_2.pdf",
   width = 90,
   height = 40,
   bg = "white",

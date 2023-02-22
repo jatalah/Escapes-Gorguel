@@ -2,21 +2,26 @@ library(tidyverse)
 library(sf)
 library(stars)
 library(ggspatial)
+library(cowplot)
 library(rnaturalearth)
 library(metR)
 rm(list = ls())
 
 # read data ---------
-bathyEmod <- read_stars('data/depth.tif') %>% as_tibble() %>% rename(depth = depth.tif)
+bathyEmod <-
+  read_csv('data/Mean depth in multi colour (no land).csv', skip = 1) %>%
+  mutate(m = m * -1) %>% 
+  rename(y = 1, x = 2)
+
 esc_d <- read_csv('data/gorguel_density_data_clean.csv')
-coords <- read_csv('data/coords.csv')
+
+coords <- read_csv('data/site_coords.csv')
 
 
 # Murcia coast map----------
 bbox <- 
   st_bbox(c(
-    xmin = -1.3,
-    xmax = 0.7,
+    xmin = -1.3,    xmax = 0.7,
     ymin = 37.5,
     ymax = 37.8
   ))
@@ -28,23 +33,23 @@ murcia <-
   st_crop(bbox) 
 
 sites_map <- 
-ggplot() +
+  ggplot() +
   geom_contour(
     data = bathyEmod,
-    aes(x, y, z = depth),
+    aes(x, y, z = m),
     color = 'gray70',
-    breaks = c(-10,-25,-50,-100)
+    breaks = c(25, 50, 100)
   ) +
-  geom_text_contour(
-    data = bathyEmod,
-    aes(x, y, z = depth),
-    stroke = 0.2,
-    breaks = c(-10,-25,-50,-100),
-    size = 2.5,
-    color = "gray70",
-    check_overlap = T,
-    label.placer = label_placer_n(3)
-  ) +
+  # geom_text_contour(
+  #   data = bathyEmod,
+  #   aes(x, y, z = m),
+  #   stroke = 0.2,
+  #   breaks = c(25, 50, 100),
+  #   size = 2.5,
+  #   color = "gray70",
+  #   check_overlap = T,
+  #   label.placer = label_placer_random()
+  # ) +
   geom_sf(data = murcia, fill = 'gray60', color = "white") +
   geom_point(data = coords, aes(X, Y), size = 2) +
   ggrepel::geom_label_repel(
@@ -70,13 +75,14 @@ ggplot() +
   annotation_scale(location = "br", width_hint = 0.15) +
   theme_minimal() +
   coord_sf(
-    xlim = c(-1.2,-0.65),
+    xlim = c(-1.2, -0.65),
     ylim = c(37.5, 37.65),
     expand = FALSE
   ) +
   scale_y_continuous(breaks = c(37.55, 37.60))
 
 sites_map
+
 
 iberian_map <- 
 ggplot() + 
@@ -116,3 +122,13 @@ ggsave(plot = fig_map,
        height = 6,
        bg = "white",
        dpi = 600)
+
+
+ggsave(plot = fig_map,
+       device = 'svg',
+       filename = "figures/fig_1.svg",
+       width = 8,
+       height = 6,
+       bg = "white",
+       dpi = 600)
+
