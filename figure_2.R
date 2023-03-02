@@ -26,7 +26,8 @@ dd <-
   mutate(distance = if_else(distance == 0.7, 0, distance),
          lower = mean - se,
          upper = mean + se) %>% 
-  arrange(distance)
+  arrange(distance) %>%
+  mutate(month = fct_relevel(month, c("July","August"))) 
 
 # sketch plot-------------
 ggplot(dd, aes(distance, mean, color = month)) +
@@ -44,9 +45,9 @@ ggplot(dd, aes(distance, mean, color = month)) +
   geom_line(linewidth = .2) +
   facet_wrap(~ fct_rev(orientation), scales = 'fixed') +
   scale_y_continuous(
-    trans = 'sqrt',
-    breaks = c(0, 10, 25, 50, 100, 150),
-    labels = c(0, 10, 25, 50, 100, 150)
+    trans = 'log1p',
+    breaks = c(0, 1, 10, 100),
+    labels = c(0, 1, 10, 100)
   ) +
   theme_bw(base_size = 7) +
   theme(
